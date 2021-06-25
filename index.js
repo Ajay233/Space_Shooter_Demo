@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 8989;
 
 app.get('/', (req, res) => {
-  res.send("Game server up and running")
+  res.sendFile(__dirname + '/game/index.html')
 })
 
 app.listen(port, () => {
