@@ -6,6 +6,6 @@ app.get('/', (req, res) => {
   res.send("Server Running")
 })
 
-app.listen(8989, () => {
+app.listen(port, () => {
   console.log(`Server started on port ${port}`)
 })
