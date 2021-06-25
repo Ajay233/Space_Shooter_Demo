@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Demo unity game",
+  "main": "index.js",
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajay233/Space_Shooter_Demo.git"
+  },
+  "author": "Ajay Mungur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay233/Space_Shooter_Demo/issues"
+  },
+  "homepage": "https://github.com/Ajay233/Space_Shooter_Demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
