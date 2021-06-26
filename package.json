@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Ajay233/Space_Shooter_Demo#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.17.1"
   }
 }
