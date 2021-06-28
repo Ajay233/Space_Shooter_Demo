@@ -4,6 +4,8 @@ This space shooter game is a first attempt at making a game in Unity.  The major
 
 You can try the game at https://space-shooter-webgl.herokuapp.com/
 
+The codebase for this game is at https://github.com/Ajay233/Space_Shooter_Codebase (This repo just contains the current WebGL build of the game).
+
 Heroku isn't the fastest hosting platform, so please bear with the loading.  
 
 ## Controls
